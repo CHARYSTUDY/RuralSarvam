@@ -1,0 +1,6 @@
+{
+  "name": "RuralOS",
+  "description": "AI-Powered Smart Rural Development Platform integrating agriculture, jobs, equipment rental, healthcare, and education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
